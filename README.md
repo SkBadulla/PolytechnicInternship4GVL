@@ -49,3 +49,34 @@
 		- dictionary
 ## Reading values from user
 		- to read values from user we have to use input()
+
+# 16-09-2020
+## Good Morning All  
+
+# installing jupyter notebook
+	- to install this jupyter we have to run a command in command prompt
+		```pip install jupyter```
+
+# 17-09-2020
+## Good Morning All
+	# keywords
+		- they are specially reserved words(predefined variables)
+		- so that we cant use them as userdefined variables
+		- keywords will convey a special meaning to compiler/interprite
+			ex: int,float,str etc
+				int a = 10,b=10
+### opearators
+- it is symbol
+- it will perform arithmetic and logical operations
+types of operators:
+- Arithmetic
+    - +,-,*,/,%,**(exp),//(floor division)
+- Relational operators
+- logical operators
+- bitwise operators
+- Assignment operators
+- membership operators
+- identity operators
+
+# 18-09-2020
+## Good Morning All
