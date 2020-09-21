@@ -80,3 +80,34 @@ types of operators:
 
 # 18-09-2020
 ## Good Morning All
+
+### opearators
+- Assignment operators
+- membership operators
+- identity operators
+
+## Conditional control statements
+- it controls the flow of execution based on condition
+- for that we have few diff type of statements
+    - conditional stat
+    - looping stat
+    - jump stat
+### conditional stat
+
+# 19-09-2020
+## Good Morning All
+
+### looping statemets
+- for
+- while
+
+### jump Statements
+- break
+- continue
+
+# 19-09-2020
+## Good Morning All
+
+### Functions
+- user defined functions
+- default functions
