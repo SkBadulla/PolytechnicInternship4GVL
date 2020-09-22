@@ -111,3 +111,22 @@ types of operators:
 ### Functions
 - user defined functions
 - default functions
+
+# 19-09-2020
+## Good Morning All
+
+- To check wheather given number is positive number or negative number?
+- To check wheather given number is even number or not?
+- To check wheather given year is leap year or not?
+- To check wheather given character is vowel or consonant?
+- To check wheather given two values are eqaul or not?
+- To find biggest of two numbers?
+- To find the biggest of three numbers?
+- To calculate the student grading system?
+- To print the 1 to n natural numbers in increment order?
+- To print the 1 to n natural numbers in decrement order?
+- To print the sum of 1 to n natural numbers?
+- To print the even numbers between 1 to n natural numbers?
+- To print the odd numbers between 1 to n natural numbers?
+- To print the sum of even natural numbers?
+- To print the sum of odd natural numbers?
