@@ -105,14 +105,14 @@ types of operators:
 - break
 - continue
 
-# 19-09-2020
+# 21-09-2020
 ## Good Morning All
 
 ### Functions
 - user defined functions
 - default functions
 
-# 19-09-2020
+# 22-09-2020
 ## Good Morning All
 
 - To check wheather given number is positive number or negative number?
@@ -130,3 +130,16 @@ types of operators:
 - To print the odd numbers between 1 to n natural numbers?
 - To print the sum of even natural numbers?
 - To print the sum of odd natural numbers?
+
+
+# 23-09-2020
+## Good Morning All
+
+### Strings
+- string slicing
+
+# 24-09-2020
+## Good Morning All
+
+### String slicing
+### String Methods
