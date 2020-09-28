@@ -143,3 +143,18 @@ types of operators:
 
 ### String slicing
 ### String Methods
+
+# 25-09-2020
+## Good Morning All
+	- practicing problems on Strings
+
+# 26-09-2020
+## Good Morning All
+
+### List
+	- list operations
+
+# 28-09-2020
+## Good Morning All
+
+### practicing on list
