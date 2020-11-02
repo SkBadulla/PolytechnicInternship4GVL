@@ -158,3 +158,13 @@ types of operators:
 ## Good Morning All
 
 ### practicing on list
+
+# 29-09-2020
+## Good Morning All
+
+### Tuples
+
+# 30-09-2020
+## Good Morning All
+
+### Dictionaries and modules
